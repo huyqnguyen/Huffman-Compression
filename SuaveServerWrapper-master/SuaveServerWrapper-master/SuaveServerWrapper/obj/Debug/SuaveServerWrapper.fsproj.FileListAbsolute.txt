@@ -1,0 +1,8 @@
+C:\Users\DEVPC05\Downloads\SuaveServerWrapper-master\SuaveServerWrapper-master\SuaveServerWrapper\bin\Debug\SuaveServerWrapper.dll.config
+C:\Users\DEVPC05\Downloads\SuaveServerWrapper-master\SuaveServerWrapper-master\SuaveServerWrapper\bin\Debug\SuaveServerWrapper.XML
+C:\Users\DEVPC05\Downloads\SuaveServerWrapper-master\SuaveServerWrapper-master\SuaveServerWrapper\bin\Debug\SuaveServerWrapper.dll
+C:\Users\DEVPC05\Downloads\SuaveServerWrapper-master\SuaveServerWrapper-master\SuaveServerWrapper\bin\Debug\SuaveServerWrapper.pdb
+C:\Users\DEVPC05\Downloads\SuaveServerWrapper-master\SuaveServerWrapper-master\SuaveServerWrapper\bin\Debug\FSharp.Core.dll
+C:\Users\DEVPC05\Downloads\SuaveServerWrapper-master\SuaveServerWrapper-master\SuaveServerWrapper\bin\Debug\FSharp.Core.xml
+C:\Users\DEVPC05\Downloads\SuaveServerWrapper-master\SuaveServerWrapper-master\SuaveServerWrapper\obj\Debug\SuaveServerWrapper.dll
+C:\Users\DEVPC05\Downloads\SuaveServerWrapper-master\SuaveServerWrapper-master\SuaveServerWrapper\obj\Debug\SuaveServerWrapper.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SuaveServerWrapper", "SuaveServerWrapper\SuaveServerWrapper.fsproj", "{B83D3ECE-6F42-4CA9-A73E-6249881CC2E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuaveServerWrapper.Tests", "SuaveServerWrapper.Tests\SuaveServerWrapper.Tests.csproj", "{78A1ACDF-97DD-4FC1-AD3B-0F4638A24A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestServer", "TestServer\TestServer.csproj", "{D0EEF2E3-3B31-492E-8E4B-F13473796C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83D3ECE-6F42-4CA9-A73E-6249881CC2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83D3ECE-6F42-4CA9-A73E-6249881CC2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83D3ECE-6F42-4CA9-A73E-6249881CC2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83D3ECE-6F42-4CA9-A73E-6249881CC2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A1ACDF-97DD-4FC1-AD3B-0F4638A24A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A1ACDF-97DD-4FC1-AD3B-0F4638A24A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A1ACDF-97DD-4FC1-AD3B-0F4638A24A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A1ACDF-97DD-4FC1-AD3B-0F4638A24A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0EEF2E3-3B31-492E-8E4B-F13473796C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EEF2E3-3B31-492E-8E4B-F13473796C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EEF2E3-3B31-492E-8E4B-F13473796C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EEF2E3-3B31-492E-8E4B-F13473796C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
